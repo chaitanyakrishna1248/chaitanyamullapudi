@@ -10150,6 +10150,18 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+.qa-container {
+  margin-bottom: 20px;
+}
+
+.qa-container h3 {
+  color: #e1ad01; /* Question color */
+}
+
+.qa-container p {
+  color: #6c757d; /* Answer color */
+  margin-top: 5px;
+}
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
